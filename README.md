@@ -14,8 +14,8 @@ For example,
 
 ```
 make
-	./jssim -p fifo -w data/w1
-	./jssim -p rr -q 2 -w data/w1
-	./jssim -p mlfq -q 2 4 -w data/w1
-	./jssim -p srtf -w data/w1
+./jssim -p fifo -w data/w1
+./jssim -p rr -q 2 -w data/w1
+./jssim -p mlfq -q 2 4 -w data/w1
+./jssim -p srtf -w data/w1
 ```
