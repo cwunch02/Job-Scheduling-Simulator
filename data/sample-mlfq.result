@@ -1,0 +1,6 @@
+#ID,Arrival,Service,Departure,Response,Wait
+1 0 1 1 1 0
+2 2 6 14 12 6
+3 2 2 6 4 2
+4 9 8 24 15 7
+5 9 14 32 23 9
